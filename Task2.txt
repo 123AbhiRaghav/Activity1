@@ -1,0 +1,25 @@
+2. Write a blog about objects and its internal representation in Javascript.
+
+Ans:
+-> Objects in Javascript may be defined as an unordered collection of related data, of primitive or reference
+   types, in the form of "key:Value" pairs.These keys can be variables or functions and are called properties 
+   methods, in the context of an object.
+
+-> Here is an example of an object and its internal representation in Javascript.
+     const person = {
+        name: "John",
+        age: 25,
+        occupation: "Doctor"
+     }
+
+    In this example, the object is represented as a collection of key-value pairs. The keys are strings, and the 
+     values can be any javascript value, including other objects.
+
+-> Objects are a powerful way to represent data in JavaScript.They can be used to model real-world objects,such as people,
+   cars, products.They can also be used to store data structures, such as lists and trees. Objects are essential part of JavaScript,
+   and they are almost used in every Javascript program.
+
+-> Some key features of objects in JavaScript:
+   1. Objects are Dynamic: Means we can add and remove properties from an object at any time. 
+   2. Objects are Extensible: Means we can create new types of objects by adding new properties and methods to existing objects.
+   3. Objects are first-Class: Means we can pass objects to functions, return objects from functions and assign objects to variables.
